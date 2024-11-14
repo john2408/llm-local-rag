@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 vector_stores/
-.lightning_logs/
+lightning_logs/
 
 # C extensions
 *.so
